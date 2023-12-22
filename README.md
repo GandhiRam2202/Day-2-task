@@ -1,4 +1,5 @@
 # Differences between Document and Window Objects
+[Document and Window Objects]()
 # Document Object:
 + The document object represents a web page that is loaded in the browser. By accessing the document object, we can access the element in the HTML page. With the help of document objects, we can add dynamic content to our web page. The document object can be accessed with a ***window.document*** or just ***document***.
 
@@ -38,7 +39,7 @@
 + **example:**
     + window.innerHeight : will return the height of the content area of the browser
 
-# -----------------------------------------------------------------------
+# ----------------------------------------------------------------
 
 # Properties of document:
 
@@ -91,7 +92,7 @@
 + ### strictErrorChecking: 
 + It sets or returns whether strict error checking can be enforced on a document or not.
 
-# -----------------------------------------------------------------------
+# ----------------------------------------------------------------
 
 # Methods of Document
 
@@ -151,7 +152,7 @@
 + ### writeln(): 
 + It is used to write a document with a newline character after each statement.
 
-# -----------------------------------------------------------------------
+# ----------------------------------------------------------------
 
 # Properties of the window:
 
@@ -216,7 +217,7 @@
 + ### Self: 
 + It provides another way to refer to the current window.
 
-# -----------------------------------------------------------------------
+# ----------------------------------------------------------------
 
 # Methods of Window:
 
